@@ -53,7 +53,11 @@ No invented people, ventures, links, or affiliations.
 
 ## Product Stack
 
-Open the landing page:
+Open the top-level demo gallery:
+
+[index.html](/Users/gaia/Documents/Codex/2026-06-10/files-mentioned-by-the-user-provis/index.html)
+
+Open the product documentation landing page:
 
 [outputs/provis-product-stack/index.html](/Users/gaia/Documents/Codex/2026-06-10/files-mentioned-by-the-user-provis/outputs/provis-product-stack/index.html)
 
@@ -71,11 +75,12 @@ DECKPRESS   = printable and mobile artifact generator
 
 ## Start Path
 
-1. Open `outputs/provis-product-stack/index.html`.
-2. Start with `GLASS LOOP` for the reduced mobile operator experience.
-3. Use `PROVISGRID` to inspect all 204 real entities and evidence rows.
-4. Use `PROVISDECK` to inspect the card grammar.
-5. Use `DECKPRESS` for mobile viewing, print layouts, JSON, and CSV export.
+1. Open `index.html` for the top-level gallery with links and iframe previews for every HTML demo.
+2. Open `outputs/provis-product-stack/index.html` for product doctrine and documentation.
+3. Start with `GLASS LOOP` for the reduced mobile operator experience.
+4. Use `PROVISGRID` to inspect all 204 real entities and evidence rows.
+5. Use `PROVISDECK` to inspect the card grammar.
+6. Use `DECKPRESS` for mobile viewing, print layouts, JSON, and CSV export.
 
 ## Shared Vocabulary
 
@@ -189,6 +194,7 @@ unsupported critique
 
 Main demos:
 
+- [Top-Level Demo Index](index.html)
 - [PROVIS landing / docs](outputs/provis-product-stack/index.html)
 - [PROVIS ontology](outputs/provis-product-stack/provis.html)
 - [PROVISGRID](outputs/provis-product-stack/provisgrid.html)
