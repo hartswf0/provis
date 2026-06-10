@@ -109,38 +109,183 @@ const html = `<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>PROVIS Demo Index</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
-:root{--bg:#fff;--fg:#000;--line:#000;--soft:#f6f6f6;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-*{box-sizing:border-box}
-html,body{margin:0;background:var(--bg);color:var(--fg)}
-body{font-size:14px;line-height:1.28}
-a{color:var(--fg);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
-.top{position:sticky;top:0;z-index:10;display:flex;gap:0;overflow-x:auto;background:#fff;border-bottom:2px solid #000}
-.top a{min-height:42px;padding:10px 12px;border-right:1px solid #000;font-size:11px;font-weight:950;text-transform:uppercase;white-space:nowrap}
-main{width:min(100%,1280px);margin:0 auto;padding:10px}
-.panel{border:2px solid #000;margin-bottom:10px}
-.head{display:flex;justify-content:space-between;gap:10px;border-bottom:2px solid #000;padding:8px 10px;font-size:11px;font-weight:950;text-transform:uppercase}
-.body{padding:10px}
-h1,h2,p{margin:0}
-h1{font-size:28px;line-height:1.02;max-width:860px}
-.small{font-size:12px;max-width:880px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:10px}
-.demo{border:2px solid #000;background:#fff;min-width:0}
-.demo-head{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:start;border-bottom:1px solid #000;padding:8px}
-.demo h2{font-size:17px;line-height:1.05}
-.tag{border:1px solid #000;padding:3px 6px;font-size:10px;font-weight:950;text-transform:uppercase;white-space:nowrap}
-.path{margin-top:5px;font:10px/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;overflow-wrap:anywhere;color:#333}
-.demo-body{padding:8px;display:grid;gap:8px}
-.actions{display:flex;gap:8px;flex-wrap:wrap}
-.actions a{border:1px solid #000;padding:7px 9px;font-size:11px;font-weight:950;text-transform:uppercase;text-decoration:none}
-.frame-wrap{border:1px solid #000;background:#fff;height:360px;overflow:hidden}
-iframe{display:block;width:100%;height:100%;border:0;background:#fff}
-.note{font-size:11px;color:#333}
-@media (max-width:760px){.grid{grid-template-columns:1fr}.frame-wrap{height:520px}h1{font-size:24px}}
+:root {
+  --bg: #fff;
+  --fg: #111;
+  --muted: #777;
+  --line: #e8e8e8;
+  --soft: #f7f7f7;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--fg); }
+body { font-size: 15px; line-height: 1.4; }
+a { color: inherit; }
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  padding: 8px;
+  background: rgba(255,255,255,.94);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(10px);
+}
+nav a {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+nav a:hover { background: var(--soft); color: var(--fg); }
+main {
+  width: min(100%, 1120px);
+  margin: 0 auto;
+  padding: 0 16px 40px;
+}
+h1, h2, p { margin: 0; }
+.hero {
+  min-height: 42vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 52px 0 40px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 18px;
+}
+.mark {
+  width: 42px;
+  height: 42px;
+  margin-bottom: 18px;
+}
+.eyebrow {
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 750;
+  letter-spacing: .14em;
+}
+h1 {
+  max-width: 800px;
+  font-size: clamp(44px, 8vw, 92px);
+  line-height: .88;
+  letter-spacing: -0.08em;
+}
+.lede {
+  max-width: 620px;
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: clamp(16px, 2vw, 19px);
+  line-height: 1.35;
+}
+.hero-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+.hero-actions a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 8px 13px;
+  border-radius: 9px;
+  background: var(--fg);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.hero-actions a + a { background: var(--soft); color: var(--fg); }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 14px;
+}
+.demo {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+}
+.info { padding: 14px; }
+.demo h2 {
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+.path {
+  margin-top: 6px;
+  color: var(--muted);
+  font: 11px/1.35 ui-monospace, SFMono-Regular, Menlo, monospace;
+  overflow-wrap: anywhere;
+}
+.desc {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+}
+.actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  padding: 6px 11px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 650;
+  text-decoration: none;
+}
+.actions a:first-child { background: var(--fg); color: #fff; }
+.actions a:last-child { background: var(--soft); color: var(--fg); }
+.preview {
+  height: 300px;
+  border-top: 1px solid var(--line);
+  background: #fff;
+}
+iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background: #fff;
+}
+footer {
+  margin-top: 22px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 13px;
+}
+@media (max-width: 760px) {
+  main { padding: 0 12px 32px; }
+  .hero { min-height: auto; padding: 40px 0 30px; }
+  .grid { grid-template-columns: 1fr; }
+  .preview { height: 440px; }
+}
 </style>
 </head>
 <body>
-<nav class="top">
+<nav>
   <a href="README.md">README</a>
   <a href="outputs/provis-product-stack/index.html">Landing</a>
   <a href="outputs/provis-product-stack/provis-glass-loop.html">Glass Loop</a>
@@ -149,40 +294,37 @@ iframe{display:block;width:100%;height:100%;border:0;background:#fff}
   <a href="outputs/provis-product-stack/deckpress.html">Deckpress</a>
 </nav>
 <main>
-  <section class="panel">
-    <div class="head"><span>PROVIS Demo Index</span><span>${cards.length} HTML artifacts</span></div>
-    <div class="body">
-      <h1>Electronic medical records for ventures.</h1>
-      <p class="small" style="margin-top:8px">Top-level index for every generated PROVIS HTML demo. Each artifact has a direct link and a live iframe preview.</p>
+  <header class="hero">
+    <img class="mark" src="favicon.svg" alt="">
+    <p class="eyebrow">PROVIS</p>
+    <h1>Venture evidence, not venture theater.</h1>
+    <p class="lede">
+      Nine working demos for building source-bound case files: claims, gaps, risks, contradictions, traces.
+    </p>
+    <div class="hero-actions">
+      <a href="outputs/provis-product-stack/index.html">Start with Landing</a>
+      <a href="outputs/provis-product-stack/provisgrid.html">Open Evidence Grid</a>
     </div>
-  </section>
+  </header>
   <section class="grid">
     ${cards.map((card, index) => `<article class="demo">
-      <div class="demo-head">
-        <div>
+      <div class="info">
           <h2>${esc(index + 1)}. ${esc(card.title)}</h2>
           <p class="path">${esc(card.file)}</p>
-        </div>
-        <span class="tag">${esc(card.type)}</span>
-      </div>
-      <div class="demo-body">
-        <p class="small">${esc(card.summary)}</p>
+        <p class="desc">${esc(card.summary)}</p>
         <div class="actions">
           <a href="${esc(card.file)}">Open</a>
-          <a href="${esc(card.file)}" target="_blank" rel="noreferrer">New Tab</a>
+          <a href="${esc(card.file)}" target="_blank" rel="noreferrer">New tab</a>
         </div>
-        <div class="frame-wrap">
-          <iframe title="${esc(card.title)} preview" src="${esc(card.file)}" loading="lazy" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
-        </div>
+      </div>
+      <div class="preview">
+        <iframe title="${esc(card.title)} preview" src="${esc(card.file)}" loading="lazy" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
       </div>
     </article>`).join("")}
   </section>
-  <section class="panel" style="margin-top:10px">
-    <div class="head"><span>Boundary</span><span>source-bound</span></div>
-    <div class="body">
-      <p class="note">PROVIS demos use public-source venture evidence only. No private dirt, no raw search URLs as evidence, no name-similarity edges, no unsupported critique.</p>
-    </div>
-  </section>
+  <footer>
+    Public evidence only. No private dirt. No search URLs as proof. No guessed edges.
+  </footer>
 </main>
 </body>
 </html>`;
