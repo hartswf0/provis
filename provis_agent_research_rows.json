@@ -1,0 +1,16 @@
+{
+  "columns": [
+    "entity",
+    "entity_type",
+    "url",
+    "evidence_type",
+    "source_title",
+    "extracted_facts",
+    "matching_fields",
+    "confidence",
+    "source_agent",
+    "research_date",
+    "notes"
+  ],
+  "rows": []
+}

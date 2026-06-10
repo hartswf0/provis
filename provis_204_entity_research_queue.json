@@ -1,0 +1,4069 @@
+{
+  "source_workbook": "/Users/gaia/Downloads/PROVIS-PUBLIC-LINK-REGISTER-collected-data-batch-2.xlsx",
+  "entities": [
+    {
+      "entity": "Jill Perry-Smith",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff",
+        "role_detail": "Academic Director, CEI; Professor of Organization & Management",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "https://goizueta.emory.edu/faculty/profiles/jill-perry-smith"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Brian Cayce",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff",
+        "role_detail": "Managing Director, CEI",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Victoria Aguilar",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff",
+        "role_detail": "Community Engagement Coordinator, CEI",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Robert Kazanjian",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff",
+        "role_detail": "Academic Director Emeritus; Asa Griggs Candler Professor",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "https://goizueta.emory.edu/faculty/profiles/robert-kazanjian"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Yemesrach Tadesse",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff",
+        "role_detail": "Program Coordinator, CEI",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Olivia Sedlack",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff (FY24-25)",
+        "role_detail": "Program Coordinator (2024-25 team list)",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Molly McDonald",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Staff (FY24-25) + Alumni Fellow",
+        "role_detail": "Community Engagement Coordinator (2024-25); Alumni Fellow",
+        "venture_program": "CEI / HackATL",
+        "class_year": "25MBA",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Ben Garrett",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Hatchery Staff",
+        "role_detail": "Director of The Hatchery",
+        "venture_program": "The Hatchery",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Rizky Etika",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Hatchery Staff",
+        "role_detail": "Senior Programming Coordinator",
+        "venture_program": "The Hatchery",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Bridgette Gunnels",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "University Staff",
+        "role_detail": "Associate Dean and Director, Center for Pathways & Purpose, Oxford College",
+        "venture_program": "SideHustle 1.0 pipeline",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Charles F. Goetz",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty",
+        "role_detail": "Professor in the Practice of Organization & Management",
+        "venture_program": "CEI featured faculty",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "https://goizueta.emory.edu/faculty/profiles/charles-f-goetz"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Andrea Hershatter",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty",
+        "role_detail": "Professor in the Practice; Senior Associate Dean of Undergraduate Education",
+        "venture_program": "CEI featured faculty / Summit",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "https://goizueta.emory.edu/faculty/profiles/andrea-hershatter"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Benn R. Konsynski",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty",
+        "role_detail": "George S. Craft Professor of Information Systems & Operations Management",
+        "venture_program": "CEI featured faculty",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "JB Kurish",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty",
+        "role_detail": "Professor in the Practice of Finance",
+        "venture_program": "CEI featured faculty",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Saloni Firasta Vastani",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty",
+        "role_detail": "Associate Professor in the Practice of Marketing",
+        "venture_program": "CEI featured faculty",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Renee Dye",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty (FY24-25)",
+        "role_detail": "Affiliated faculty (2024-25 report)",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Giacomo Negro",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Faculty (FY24-25)",
+        "role_detail": "Affiliated faculty (2024-25 report)",
+        "venture_program": "CEI",
+        "class_year": "",
+        "registry": "CEI Team (Ecosystem)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Jay Bailey",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "President & CEO HJ Russell Innovation Center for Entrepreneurs",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Roger Barnette",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "CEO MessageGears",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Kate Brodock",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "CEO of Switch & General Partner of W Fund",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Christy Brown",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "CEO Dr. Noze Best; TEFC facilitator (2024-25 report); early Doorstep.ai supporter",
+        "venture_program": "EIR / TEFC",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Lisa Calhoun",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder Valor VC",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Bill Carr",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Co-founder Working Backwards LLC",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Cummings",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder Atlanta Tech Village",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Angela Fusaro",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder Physician 360",
+        "venture_program": "EIR",
+        "class_year": "17EMBA",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Gardiner Garrard",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Co-Founder & Managing Partner TTV",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Steve Greenfield",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "CEO/Founder Automotive Ventures",
+        "venture_program": "EIR",
+        "class_year": "04EvMBA",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Luis Avila Marco",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Former SVP Strategy & Corporate Development Cox Enterprises",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Kerry Leigh Miller",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Managing Partner Overton Venture Capital",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Sid Mookerji",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder & Managing Partner Silicon Road",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Sig Mosley",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder & Managing Partner Mosley Ventures",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Payne",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Co-Founder & Managing Partner Neighborhood Studios",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Kanchana Raman",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "President & CEO Avion Networks",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Brian Rudolph",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Co-founder & CEO Banza",
+        "venture_program": "EIR",
+        "class_year": "12BBA",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Louise Wasilewski",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder & CEO Acivilate",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Jason Wild",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "SVP Customers Arteria AI",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Joey Womack",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "EIR Mentor",
+        "role_detail": "Founder/CEO Goodie Nation",
+        "venture_program": "EIR",
+        "class_year": "",
+        "registry": "Mentor Encounter Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Varun Sheel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "1st place Graduate + People's Choice 2026 Pitch the Summit",
+        "venture_program": "The Elephant Room",
+        "class_year": "27MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://hypepotamus.com/startup-news/the-elephant-room-atlanta-music-startup/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Jake Shawler",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "1st place Graduate 2026 Pitch the Summit",
+        "venture_program": "The Elephant Room",
+        "class_year": "27MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Federico Morales Barrera",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "1st place Graduate 2026 Pitch the Summit",
+        "venture_program": "The Elephant Room",
+        "class_year": "27MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dhwani Gandhi",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "1st place Graduate 2026 Pitch the Summit",
+        "venture_program": "The Elephant Room",
+        "class_year": "27MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dure Ali",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 Pitch the Summit team",
+        "venture_program": "The Elephant Room",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Adam Spierer",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 Pitch the Summit team",
+        "venture_program": "The Elephant Room",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Karimatou Diallo",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2nd place Graduate 2026 Pitch the Summit",
+        "venture_program": "CFO Track",
+        "class_year": "28MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Mariah Qunsel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 Pitch the Summit team",
+        "venture_program": "CFO Track",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Saliou Bah",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 Pitch the Summit team",
+        "venture_program": "CFO Track",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Apha Barry",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 Pitch the Summit team",
+        "venture_program": "CFO Track",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Ariana Sharafat",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "3rd place Graduate 2026 Pitch the Summit",
+        "venture_program": "GlamGuide",
+        "class_year": "26MIM",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Malia Wakesho-Ajwang",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "1st place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Asoma",
+        "class_year": "26C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Sushmita Rajan",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2nd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Boomi",
+        "class_year": "26C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Shirin Deepak",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2nd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Boomi",
+        "class_year": "26BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Luka Undilashvili",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "3rd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Infervia",
+        "class_year": "28C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dharshini Kannan",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "3rd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Infervia",
+        "class_year": "28C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Rom Zuckerman",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "3rd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Infervia",
+        "class_year": "28C (ECAS/GT)",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Prem Galani",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "3rd place Undergraduate 2026 Pitch the Summit",
+        "venture_program": "Infervia",
+        "class_year": "29C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Harman Lindsey",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder (alumni)",
+        "role_detail": "2026 Techstars Emory Founder Catalyst cohort",
+        "venture_program": "Misfit Adventure",
+        "class_year": "24MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Madalyn Tolbert",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder (alumni)",
+        "role_detail": "2026 TEFC cohort",
+        "venture_program": "Pi9eon",
+        "class_year": "20Ox 22C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Helen Khuri",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2026 TEFC cohort; Hatchery Incubator & Accelerator alum",
+        "venture_program": "Smush",
+        "class_year": "26C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Jack Steffen",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025-26 Hatchery Incubator cohort",
+        "venture_program": "Scholarly",
+        "class_year": "Oxford",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Raphael Nelson",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "Co-founder; inaugural Palladin Fellow; Hatchery Summer Accelerator 2025",
+        "venture_program": "The CaseBot",
+        "class_year": "Oxford/BBA rising 3rd yr",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Isabel Horne",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "Co-founder; inaugural Palladin Fellow; Hatchery Summer Accelerator 2025",
+        "venture_program": "The CaseBot",
+        "class_year": "Oxford/ECAS rising 3rd yr",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Sam Liu",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Commonology AI",
+        "class_year": "27BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "William Kong",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Commonology AI",
+        "class_year": "27C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Larissa Lippe",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Commonology AI",
+        "class_year": "27BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Ray Sahni",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Commonology AI",
+        "class_year": "25C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Anthony Vargas",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Safe Squeeze Headgear",
+        "class_year": "26C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Emilio Van Cotthem",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Subscription Intern",
+        "class_year": "25C",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Christian Liew",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder",
+        "role_detail": "2025 Pitch the Summit finalist",
+        "venture_program": "Subscription Intern",
+        "class_year": "25BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Albert Djikeng",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder + Fellow (FY24-25)",
+        "role_detail": "2025 Pitch the Summit finalist (Corridor); 2024-25 CEI Fellow; featured Summit reflection",
+        "venture_program": "Corridor",
+        "class_year": "26MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Tyki Wada",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder + Alumni Fellow",
+        "role_detail": "2025 Pitch the Summit finalist (Moji); CEI Fellow; TEFC testimonial",
+        "venture_program": "Moji",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Omid Razmpour",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder + Fellow",
+        "role_detail": "2025 Pitch the Summit finalist; 2025 Most Disruptive MBA Startups; CEI Fellow",
+        "venture_program": "WorkforceIQ",
+        "class_year": "26MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://www.voiceofgoizueta.com/2025-most-disruptive-mba-startups-workforceiq/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.voiceofgoizueta.com/2025-most-disruptive-mba-startups-workforceiq/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Erica Evans",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Founder + Alumni Fellow",
+        "role_detail": "2025 Pitch the Summit Momentum Award; CEI Fellow; quoted in directors' letter",
+        "venture_program": "Blood Rheology Solutions",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Shashwat Murarka",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder",
+        "role_detail": "Founder profiled by Goizueta news",
+        "venture_program": "Doorstep.ai",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Sheel Patel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder",
+        "role_detail": "Co-founder",
+        "venture_program": "Doorstep.ai",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Kyle Wilson",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Investor",
+        "role_detail": "Invested in Doorstep.ai after a pitch night",
+        "venture_program": "Doorstep.ai",
+        "class_year": "09C",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Alex Watts",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Supporter",
+        "role_detail": "Early Doorstep.ai supporter",
+        "venture_program": "Doorstep.ai",
+        "class_year": "04C",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Edwin Kendrick",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder",
+        "role_detail": "Featured headline: smart device for safer methadone pain management",
+        "venture_program": "SanoTOUCH",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "CANDIDATE — headline only, article not fetched",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Selina Kao",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student",
+        "role_detail": "Two-time first-place HackATL team member",
+        "venture_program": "HackATL / MedRec team",
+        "class_year": "27BBA",
+        "registry": "Student Engagement Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Meher Jain",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student Leader + Fellow (FY24-25)",
+        "role_detail": "Student director of HackATL; 2024-25 CEI Fellow",
+        "venture_program": "HackATL",
+        "class_year": "27BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Grace Zhang",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Student",
+        "role_detail": "Featured student (sustainable fashion / refugee empowerment headline)",
+        "venture_program": "CEI news feed",
+        "class_year": "25BBA",
+        "registry": "Student Engagement Registry",
+        "verification_status": "CANDIDATE — headline only, article not fetched",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Kenna Temesgen",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (current)",
+        "role_detail": "CEI Fellow Spotlight headline",
+        "venture_program": "CEI Fellows",
+        "class_year": "26MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Vidhi Tiwary",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (current)",
+        "role_detail": "CEI Fellow Spotlight: angel investing headline",
+        "venture_program": "CEI Fellows",
+        "class_year": "",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dimi Deju",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "27BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Penelope Gallardo",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Wyatt Lyons",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Cate Navarrette",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Aagam Prakash",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "28BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Apoorv Kumar",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Sofia Yang",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Justin Helm",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "26EvMBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Gabrielle Iarocci",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "22EvMBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Patrycja Kepa",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "27EvMBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Linh Nguyen",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Cydney Stevenson",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "25EvMBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Samuel Aely",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "28MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Michael Gernatt",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Qazi Haq",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow; quoted in report (VC internships)",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Noah Kann",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "20MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Angela Kim",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Prestin Lawrence",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Jasmin Lopez",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Rahul Mantri",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Michael Mirowcha",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow (FY24-25)",
+        "role_detail": "2024-25 Student Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Steve Ripple",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "CEI Fellow + Alumni Fellow",
+        "role_detail": "2024-25 Student Fellow; Alumni Fellow list",
+        "venture_program": "CEI Fellows",
+        "class_year": "26MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Taylor Adkins",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Samuel Bailey",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Neil Banerjee",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "22BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Rahul Bendre",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Brandon Best",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Paige Boatwright",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Raymond Cryer II",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Nikita Das",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Margaux Galitz",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "22MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Gibbons",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Aravind Giduturi",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dany Hernandez",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Stephon Harris",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Martin Huang",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Timothy Lam",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Saif Nazrul",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Michael Nkwocha",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "25MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Sadia Oishee",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Shyam Patel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Vivek Patel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Keena Pierre",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Rishab Pradeep Padukone",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Jessica Sanghvi",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Murli Singh",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Evyn Smith",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "24MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Garima Soni",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "22MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Emily Wang",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23BBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Bronson Worthy",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Fellow",
+        "role_detail": "CEI Alumni Fellow",
+        "venture_program": "CEI Fellows",
+        "class_year": "23MBA",
+        "registry": "Fellows Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Fridtjof Berge",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2026 Founder's Address; Co-Founder & CBO Antler; Goizueta BBA exchange alumnus",
+        "venture_program": "Entrepreneurship Summit 2026",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Glattstein",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Founder",
+        "role_detail": "2025 Keynote; Co-Founder & President Veterinary Emergency Group",
+        "venture_program": "Entrepreneurship Summit 2025",
+        "class_year": "04BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Bessler",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder",
+        "role_detail": "Co-founder VEG (named in Glattstein bio)",
+        "venture_program": "VEG",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Cyril Berdugo",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2024 Keynote; Co-Founder and CEO of Landis",
+        "venture_program": "Entrepreneurship Summit 2024",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Stuart Weitzman",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2023 Keynote; designer/founder",
+        "venture_program": "Entrepreneurship Summit 2023",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Vivek Garipalli",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2022 Keynote; co-founder Clover Health",
+        "venture_program": "Entrepreneurship Summit 2022",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "William Hockey",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2019 Founders Address; Co-Founder Plaid",
+        "venture_program": "Entrepreneurship Summit 2019",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Politis",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Keynote Speaker",
+        "role_detail": "2019 Founders Address; Founder & CEO BetterCloud",
+        "venture_program": "Entrepreneurship Summit 2019",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Jeffrey Chernick",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "3x founder (RideAmigos / Vyng)",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "04BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Caren Kelleher",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Founder & CEO Gold Rush Vinyl",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "04BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Dustin Finkel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Former CEO and Founder Awakened Foods / MacGray",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "00BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Vanessa Jeswani",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-Founder Nomad Lane",
+        "venture_program": "Summit Luminary",
+        "class_year": "08BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Adam King",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-Founder CEO 1587 Sneakers",
+        "venture_program": "Summit Luminary",
+        "class_year": "09MBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Glen Surnamer",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Executive Director Woodland South Capital; COO Pensare LLC (2025 article)",
+        "venture_program": "Summit Luminary",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Colin McIntosh",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Founder CEO Sheets & Giggles",
+        "venture_program": "Summit Luminary",
+        "class_year": "12BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "David Gaspar",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-Founder Head of Innovation Gather",
+        "venture_program": "Summit Luminary",
+        "class_year": "02BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Matt Golden",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-founder MapHabit",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "05BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC — identity reconciliation needed",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Stuart Zola",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder",
+        "role_detail": "Emory neuroscientist; co-founder MapHabit (named in Golden bio + related headline)",
+        "venture_program": "MapHabit",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Michael Basen",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Head of StavMarket Stavtar Solutions",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Michael Cohen",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-founder Creator Sports Network",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Armaan Sikand",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-Founder and COO Axle",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "15C",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Nihar Parikh",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Co-Founder and CTO Axle",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "17B",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Cameron Duncan",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Founder",
+        "role_detail": "Co-founder & CEO Axle (2025 Summit article)",
+        "venture_program": "Summit 2025 Luminary",
+        "class_year": "17BBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Josh Sigel",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "Founder/CEO Xlogix; Fabrick / Lasso Ventures / ARAF",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "02BBA",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Nathan Meeks",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Luminary",
+        "role_detail": "SVP Glia; Co-Founder/CEO Gigzolo",
+        "venture_program": "Summit 2026 Luminary",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Scott Roskind",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Summit Luminary",
+        "role_detail": "Partner R3 Venture Partners",
+        "venture_program": "Summit 2025 Luminary",
+        "class_year": "",
+        "registry": "Community Registry (alumni network)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Brandon Ward",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Alumni Founder",
+        "role_detail": "Founder Palladin Technologies; 2025 Emory Entrepreneur Award (B2B); Palladin Fellowship sponsor",
+        "venture_program": "Palladin Fellowship / Hatchery",
+        "class_year": "10MBA",
+        "registry": "Founder Registry",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Michael Anton",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder (Emory tie unconfirmed)",
+        "role_detail": "CEO and Co-Founder Huper ($1.5M pre-seed)",
+        "venture_program": "Huper",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "CANDIDATE — Emory tie unconfirmed",
+        "seed_url": "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Andrew Howard",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder (Emory tie unconfirmed)",
+        "role_detail": "Co-founder Huper",
+        "venture_program": "Huper",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "CANDIDATE — Emory tie unconfirmed",
+        "seed_url": "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Aidan Kehoe",
+      "entity_type": "Person",
+      "context": {
+        "role_type": "Founder (Emory tie unconfirmed)",
+        "role_detail": "Co-founder Huper",
+        "venture_program": "Huper",
+        "class_year": "",
+        "registry": "Founder Registry",
+        "verification_status": "CANDIDATE — Emory tie unconfirmed",
+        "seed_url": "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+        "secondary_url": ""
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "The Elephant Room",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Accelerator for independent artists using data-driven analytics/ML pipeline (TERAS).",
+        "sector": "Creative / music tech",
+        "affiliation_evidence": "1st place Graduate + People's Choice, 2026 Pitch the Summit (official Summit page)",
+        "named_founders": "Varun Sheel, Jake Shawler, Federico Morales Barrera, Dhwani Gandhi, Dure Ali, Adam Spierer",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 4,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://hypepotamus.com/startup-news/the-elephant-room-atlanta-music-startup/",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/",
+        "https://www.theelephantroomgroup.com/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 6
+    },
+    {
+      "entity": "CFO Track",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Operational finance software connecting revenue, inventory, and marketing data for founders.",
+        "sector": "Fintech / SaaS",
+        "affiliation_evidence": "2nd place Graduate, 2026 Pitch the Summit",
+        "named_founders": "Karimatou Diallo, Mariah Qunsel, Saliou Bah, Apha Barry",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "GlamGuide",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Beauty social commerce app with daily discovery tools for Black and minority stylists.",
+        "sector": "Consumer / beauty tech",
+        "affiliation_evidence": "3rd place Graduate, 2026 Pitch the Summit",
+        "named_founders": "Ariana Sharafat",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Asoma",
+      "entity_type": "Venture",
+      "context": {
+        "description": "All-in-one hub offloading executive functions to AI for people with ADHD.",
+        "sector": "Consumer / AI",
+        "affiliation_evidence": "1st place Undergraduate, 2026 Pitch the Summit",
+        "named_founders": "Malia Wakesho-Ajwang",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Boomi",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Protein-packed Indian masala powder for snacks and meals.",
+        "sector": "Consumer / food",
+        "affiliation_evidence": "2nd place Undergraduate, 2026 Pitch the Summit",
+        "named_founders": "Sushmita Rajan, Shirin Deepak",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Infervia",
+      "entity_type": "Venture",
+      "context": {
+        "description": "AI-powered regulatory intelligence for healthcare facility compliance.",
+        "sector": "Healthcare / AI",
+        "affiliation_evidence": "3rd place Undergraduate, 2026 Pitch the Summit",
+        "named_founders": "Luka Undilashvili, Dharshini Kannan, Rom Zuckerman, Prem Galani",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/events/summit"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://goizueta.emory.edu/events/summit",
+        "https://www.emorybusiness.com/2026/05/05/goizuetas-10th-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Misfit Adventure",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Educational game publisher; licenses tools for schools to build STEM programs.",
+        "sector": "Edtech / games",
+        "affiliation_evidence": "2026 Techstars Emory Founder Catalyst cohort (Goizueta news site)",
+        "named_founders": "Harman Lindsey",
+        "programs": "Techstars Emory Founder Catalyst (TEFC)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Pi9eon",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Platform for a faster, seamless mailing experience for postcard/mail enthusiasts.",
+        "sector": "Consumer",
+        "affiliation_evidence": "2026 TEFC cohort (Goizueta news site)",
+        "named_founders": "Madalyn Tolbert",
+        "programs": "Techstars Emory Founder Catalyst (TEFC)",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Smush",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Fashionable compression wear for women; signature sparkle compression tights.",
+        "sector": "Consumer / apparel",
+        "affiliation_evidence": "2026 TEFC cohort; article states also Hatchery Incubator and Accelerator alum",
+        "named_founders": "Helen Khuri",
+        "programs": "Techstars Emory Founder Catalyst (TEFC), Hatchery Incubator, Hatchery Summer Accelerator",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/06/er_hatchery_summer_accelerator_cohort_25-06-2025/story.html",
+        "https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Scholarly",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Helps homeschool families access higher education.",
+        "sector": "Edtech",
+        "affiliation_evidence": "2025-26 Hatchery Incubator cohort member (Emory News Center)",
+        "named_founders": "Jack Steffen",
+        "programs": "Hatchery Incubator",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Doorstep.ai",
+      "entity_type": "Venture",
+      "context": {
+        "description": "AI for finding building entrances faster (headline-level description).",
+        "sector": "AI / logistics",
+        "affiliation_evidence": "Featured on official CEI news feed, Mar 17, 2026; underlying article not fetched",
+        "named_founders": "Shashwat Murarka",
+        "programs": "",
+        "verification_status": "VERIFIED PUBLIC (full article fetched 2026-06-09)",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      },
+      "current_real_link_count": 6,
+      "current_real_links": [
+        "https://docs.doorstep.ai/",
+        "https://www.doorstep.ai/",
+        "https://www.doorstep.ai/seed",
+        "https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+        "https://www.linkedin.com/company/doorstep-ai/",
+        "https://x.com/DoorstepHQ"
+      ],
+      "target_links": 10,
+      "gap_to_target": 4
+    },
+    {
+      "entity": "Huper",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Atlanta-based AI startup (headline-level description).",
+        "sector": "AI",
+        "affiliation_evidence": "Featured on official CEI news feed via Atlanta Business Chronicle headline, Mar 10, 2026; article not fetched",
+        "named_founders": "— none printed",
+        "programs": "",
+        "verification_status": "CANDIDATE — Emory tie unconfirmed (Hypepotamus article shows no Emory link)",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      },
+      "current_real_link_count": 7,
+      "current_real_links": [
+        "https://businessradiox.com/podcast/atlantabusinessradio/huper/",
+        "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+        "https://www.huperlabs.ai/",
+        "https://www.huperlabs.ai/press/20260226-press-release-huper-fundraising-announcement/",
+        "https://www.huperlabs.ai/press/20260420-press-release-josh-stephens-joins-huper/",
+        "https://www.huperlabs.ai/security-policy/",
+        "https://www.linkedin.com/company/huper-labs"
+      ],
+      "target_links": 10,
+      "gap_to_target": 3
+    },
+    {
+      "entity": "Commonology AI",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist (per CEI Annual Report 2024-25).",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Sam Liu, William Kong, Larissa Lippe, Ray Sahni",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Safe Squeeze Headgear",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist.",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Anthony Vargas",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Subscription Intern",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist.",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Emilio Van Cotthem, Christian Liew",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Corridor",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist.",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Albert Djikeng",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 2,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/",
+        "https://www.voiceofgoizueta.com/from-founder-to-finalist-albert-djikeng-reflects-on-goizuetas-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 8
+    },
+    {
+      "entity": "Moji",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist.",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Tyki Wada",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "WorkforceIQ",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 finalist.",
+        "sector": "",
+        "affiliation_evidence": "Pitch the Summit finalist, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Omid Razmpour",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 4,
+      "current_real_links": [
+        "https://poetsandquants.com/2026/03/14/2025-most-disruptive-mba-startups-workforceiq-emory-university-goizueta/?pq-category=students",
+        "https://www.emorybusiness.com/2026/05/11/brittain-award-recipient-omid-razmpour-builds-support-systems-for-nurses/",
+        "https://www.voiceofgoizueta.com/2025-most-disruptive-mba-startups-workforceiq/",
+        "https://www.workforce-iq.com/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 6
+    },
+    {
+      "entity": "Blood Rheology Solutions",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Pitch the Summit 2025 Momentum Award recipient.",
+        "sector": "",
+        "affiliation_evidence": "Momentum Award, CEI Annual Report 2024-25 PDF",
+        "named_founders": "Erica Evans",
+        "programs": "Pitch the Summit",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "The CaseBot",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Student venture; co-founders are inaugural Palladin Fellows",
+        "sector": "—",
+        "affiliation_evidence": "Hatchery Summer Accelerator 2025 (Emory News Center)",
+        "named_founders": "Raphael Nelson, Isabel Horne",
+        "programs": "Hatchery Summer Accelerator",
+        "verification_status": "VERIFIED PUBLIC",
+        "seed_url": "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html"
+      },
+      "current_real_link_count": 3,
+      "current_real_links": [
+        "https://news.emory.edu/stories/2025/06/er_hatchery_summer_accelerator_cohort_25-06-2025/story.html",
+        "https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+        "https://www.thecasebot.com/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 7
+    },
+    {
+      "entity": "SanoTOUCH",
+      "entity_type": "Venture",
+      "context": {
+        "description": "Smart device for safer methadone pain management (headline)",
+        "sector": "Medical device",
+        "affiliation_evidence": "Headline on official CEI news feed",
+        "named_founders": "Edwin Kendrick",
+        "programs": "—",
+        "verification_status": "CANDIDATE — headline only, article not fetched",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "The Roberto C. Goizueta Center for Entrepreneurship & Innovation (CEI)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University center (Goizueta Business School, Emory University)",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "self",
+        "partner_type": "",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "The Hatchery, Center for Innovation (Emory University)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University innovation center / incubator",
+        "geography": "Atlanta, GA (Emory Point)",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25; TEFC co-deliverer",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://hatchery.emory.edu/",
+        "seed_url": "https://hatchery.emory.edu/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Emory University Office of Technology Transfer (OTT)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University technology transfer office",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://ott.emory.edu/",
+        "seed_url": "https://ott.emory.edu/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Biolocity",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Multi-institutional medtech commercialization program (Emory + Georgia Tech)",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://biolocity.gatech.edu/",
+        "seed_url": "https://biolocity.gatech.edu/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "ATDC (Advanced Technology Development Center)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "State-funded statewide startup incubator (Georgia Tech)",
+        "geography": "Georgia statewide; HQ Tech Square, Atlanta",
+        "relationship_to_cei": "Listed among Atlanta community partners in CEI Annual Report 2024-25",
+        "partner_type": "Atlanta community partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://atdc.org/",
+        "seed_url": "https://atdc.org/about-atdc/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Atlanta Tech Village",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Private startup community hub / coworking campus",
+        "geography": "Atlanta, GA (Buckhead + Sylvan)",
+        "relationship_to_cei": "Listed among Atlanta community partners in CEI Annual Report 2024-25",
+        "partner_type": "Atlanta community partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://atlantatechvillage.com/",
+        "seed_url": "https://atlantatechvillage.com/"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://www.axios.com/local/atlanta/2025/01/09/atlanta-tech-village-sylvan-south-downtown"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Venture Atlanta",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Venture capital conference organization",
+        "geography": "Atlanta / Southeast US",
+        "relationship_to_cei": "Mini-fund collaboration described in CEI Annual Report 2024-25",
+        "partner_type": "Capital ecosystem partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://www.ventureatlanta.org/",
+        "seed_url": "https://www.ventureatlanta.org/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "TiE Atlanta Angels",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Angel investment network",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named mini-fund partner in CEI Annual Report 2024-25",
+        "partner_type": "Capital ecosystem partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Invest Atlanta",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Public economic development authority (City of Atlanta)",
+        "geography": "City of Atlanta, GA",
+        "relationship_to_cei": "Hatchery partner (logo wall); not on CEI 2024-25 collaborator list",
+        "partner_type": "Civic partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://www.investatlanta.com/",
+        "seed_url": "https://www.investatlanta.com/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Georgia Research Alliance (GRA)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Nonprofit university research & entrepreneurship alliance",
+        "geography": "Georgia",
+        "relationship_to_cei": "Listed among Atlanta community partners in CEI Annual Report 2024-25",
+        "partner_type": "Research commercialization partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://gra.org/",
+        "seed_url": "https://gra.org/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Startup Atlanta",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Community non-profit",
+        "geography": "Metro Atlanta, GA",
+        "relationship_to_cei": "Listed among Atlanta community partners in CEI Annual Report 2024-25",
+        "partner_type": "Atlanta community partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "https://www.startupatlanta.com/",
+        "seed_url": "https://www.startupatlanta.com/"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Techstars",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Global pre-accelerator / accelerator network",
+        "geography": "Global; Atlanta programs",
+        "relationship_to_cei": "TEFC triad partner (CEI + Hatchery + Techstars)",
+        "partner_type": "Program co-deliverer",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/programs"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "AppHatchery",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Emory app development collaborator",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Emory Center for AI Learning",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University center",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "DRIVE (Drug Innovation Ventures at Emory)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University drug development venture unit",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Emory Drug Development Fund",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University fund",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Emory BioFoundry Institute",
+      "entity_type": "Organization",
+      "context": {
+        "type": "University institute",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named collaborator in CEI Annual Report 2024-25",
+        "partner_type": "University collaborator",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Atlanta Technology Angels",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Angel investment network",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named Atlanta community partner in CEI Annual Report 2024-25",
+        "partner_type": "Capital ecosystem partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Goodie Nation",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Nonprofit founder support network",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named Atlanta community partner in CEI Annual Report 2024-25",
+        "partner_type": "Atlanta community partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 1,
+      "current_real_links": [
+        "https://goodienation.org/"
+      ],
+      "target_links": 10,
+      "gap_to_target": 9
+    },
+    {
+      "entity": "Russell Center for Innovation & Entrepreneurship (RICE)",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Innovation center for Black entrepreneurs",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named Atlanta community partner in CEI Annual Report 2024-25",
+        "partner_type": "Atlanta community partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    },
+    {
+      "entity": "Engage VC",
+      "entity_type": "Organization",
+      "context": {
+        "type": "Venture firm / corporate innovation platform",
+        "geography": "Atlanta, GA",
+        "relationship_to_cei": "Named Atlanta community partner in CEI Annual Report 2024-25",
+        "partner_type": "Capital ecosystem partner",
+        "verification_status": "VERIFIED PUBLIC",
+        "official_website": "— not captured",
+        "seed_url": "https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf"
+      },
+      "current_real_link_count": 0,
+      "current_real_links": [],
+      "target_links": 10,
+      "gap_to_target": 10
+    }
+  ]
+}

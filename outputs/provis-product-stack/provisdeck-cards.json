@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "001",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Venture Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "venture-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "002",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Founder Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "founder-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "003",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Program Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "program-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "004",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Ecosystem Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "ecosystem-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "005",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "University Venture Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "university-venture-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "006",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Accelerator Cohort Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "accelerator-cohort-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "007",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Market Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "market-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "008",
+    "type": "FIELD",
+    "icon": "[FLD]",
+    "title": "Evidence Boundary Field",
+    "state": "unseen",
+    "evidence": "source_gap",
+    "limit": "does not establish any claim until a Source enters the field",
+    "move": "dispatch",
+    "trace": "creates Venture_Field boundary",
+    "body": "Declare the public evidence boundary. Define what entities, source types, and claims can enter this case.",
+    "footer": "FIELD · dispatch",
+    "tags": [
+      "field",
+      "evidence-boundary-field",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "009",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Venture Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "venture-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "010",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Founder Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "founder-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "011",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Claim Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "claim-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "012",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Evidence Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "evidence-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "013",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Relationship Edge",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "relationship-edge",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "014",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Risk Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "risk-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "015",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Contradiction Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "contradiction-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "016",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Uncertainty Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "uncertainty-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "017",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Venture Problem Form",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "venture-problem-form",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "018",
+    "type": "FORM",
+    "icon": "[FRM]",
+    "title": "Provenance Trace",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth; it only names a container",
+    "move": "inspect",
+    "trace": "creates typed Form",
+    "body": "Create a typed PROVIS object. It is a container awaiting source-bound evidence, not a fact.",
+    "footer": "FORM · inspect",
+    "tags": [
+      "form",
+      "provenance-trace",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "019",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Official Website",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "official-website",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "020",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Team Page",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "team-page",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "021",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Founder Bio",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "founder-bio",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "022",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "University Page",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "university-page",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "023",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Accelerator Roster",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "accelerator-roster",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "024",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Press Article",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "press-article",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "025",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Podcast",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "podcast",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "026",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "YouTube Interview",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "youtube-interview",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "027",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "GitHub Repository",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "github-repository",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "028",
+    "type": "SOURCE",
+    "icon": "[SRC]",
+    "title": "Patent Record",
+    "state": "captured",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish adoption, revenue, or current role unless directly stated",
+    "move": "capture",
+    "trace": "creates Evidence_Form",
+    "body": "Capture a public destination page. Search results are discovery only. Private data does not count.",
+    "footer": "SOURCE · capture",
+    "tags": [
+      "source",
+      "patent-record",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "029",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Founder Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "founder-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "030",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Product Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "product-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "031",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Technology Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "technology-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "032",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Funding Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "funding-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "033",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Customer Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "customer-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "034",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Traction Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "traction-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "035",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Compliance Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "compliance-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "036",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Affiliation Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "affiliation-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "037",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Market Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "market-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "038",
+    "type": "CLAIM",
+    "icon": "[CLM]",
+    "title": "Revenue Claim",
+    "state": "candidate",
+    "evidence": "L0_unverified",
+    "limit": "does not establish truth until bound to source evidence",
+    "move": "extract",
+    "trace": "creates Claim_Form",
+    "body": "Extract one bounded assertion from a source. It enters as candidate until evidence is bound.",
+    "footer": "CLAIM · extract",
+    "tags": [
+      "claim",
+      "revenue-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "039",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "founder_of",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "founder-of",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "040",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "cofounder_of",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "cofounder-of",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "041",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "advisor_to",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "advisor-to",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "042",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "investor_in",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "investor-in",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "043",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "participant_in",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "participant-in",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "044",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "backed_by",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "backed-by",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "045",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "partnered_with",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "partnered-with",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "046",
+    "type": "EDGE",
+    "icon": "[EDG]",
+    "title": "patent_inventor_of",
+    "state": "weakly_supported",
+    "evidence": "L1_self_claim",
+    "limit": "does not establish equity, control, current role, or operating reality",
+    "move": "verify",
+    "trace": "creates Relationship_Edge",
+    "body": "Connect entities only when a public source supports the relationship. No proximity, no name-match inference.",
+    "footer": "EDGE · verify",
+    "tags": [
+      "edge",
+      "patent-inventor-of",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "047",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "SOAPP Fit",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "soapp-fit",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "048",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Claim",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "049",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Founder",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-founder",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "050",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Venture",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-venture",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "051",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Edge",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-edge",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "052",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Problem",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-problem",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "053",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Risk",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-risk",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "054",
+    "type": "FIT",
+    "icon": "[FIT]",
+    "title": "Bind Source to Contradiction",
+    "state": "evidence_bound",
+    "evidence": "L2_program_claim",
+    "limit": "does not establish what the source does not directly say",
+    "move": "bind",
+    "trace": "creates SOAPP_Fit",
+    "body": "Play Source, Observation, Assessment, Problem, Probe. Say what is supported and what is not established.",
+    "footer": "FIT · bind",
+    "tags": [
+      "fit",
+      "bind-source-to-contradiction",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "055",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Founder Relationship Not Verified",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "founder-relationship-not-verified",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "056",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Missing Official Team Page",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "missing-official-team-page",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "057",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Unsupported Traction Claim",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "unsupported-traction-claim",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "058",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "AI Capability Lacks Artifact",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "ai-capability-lacks-artifact",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "059",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "No Customer Proof",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "no-customer-proof",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "060",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Weak Source Quality",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "weak-source-quality",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "061",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Contradictory Timeline",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "contradictory-timeline",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "062",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Funding Claim Unverified",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "funding-claim-unverified",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "063",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Compliance Claim Unsupported",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "compliance-claim-unsupported",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "064",
+    "type": "PROBLEM",
+    "icon": "[PRB]",
+    "title": "Founder Identity Ambiguous",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not prove failure; it names missing proof",
+    "move": "probe",
+    "trace": "creates Venture_Problem_Form",
+    "body": "Name the unresolved hole. A missing link is not blank space; it is a Venture Problem Form.",
+    "footer": "PROBLEM · probe",
+    "tags": [
+      "problem",
+      "founder-identity-ambiguous",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "065",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Official Team Page",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-official-team-page",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "066",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Founder Bio",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-founder-bio",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "067",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Product Demo",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-product-demo",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "068",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find GitHub Artifact",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-github-artifact",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "069",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Customer Proof",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-customer-proof",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "070",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Privacy Page",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-privacy-page",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "071",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Filing",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-filing",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "072",
+    "type": "PROBE",
+    "icon": "[PRX]",
+    "title": "Find Independent Press",
+    "state": "unresolved",
+    "evidence": "source_gap",
+    "limit": "does not count as evidence until a destination source is captured",
+    "move": "probe",
+    "trace": "creates next investigation task",
+    "body": "Turn uncertainty into the next public-source hunt. Every unresolved problem needs a probe.",
+    "footer": "PROBE · probe",
+    "tags": [
+      "probe",
+      "find-independent-press",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "073",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Prestige Laundering",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "prestige-laundering",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "074",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Founder Mythology",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "founder-mythology",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "075",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Wizard-of-Oz Risk",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "wizard-of-oz-risk",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "076",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Narrative Overhang",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "narrative-overhang",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "077",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "API Dependency",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "api-dependency",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "078",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Compliance Timebomb",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "compliance-timebomb",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "079",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Customer Harm Risk",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "customer-harm-risk",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "080",
+    "type": "RISK",
+    "icon": "[RSK]",
+    "title": "Unit Economics Fog",
+    "state": "ambiguous",
+    "evidence": "source_gap",
+    "limit": "does not imply wrongdoing without evidence or explicit uncertainty",
+    "move": "summon_critic",
+    "trace": "creates Risk_Form",
+    "body": "Translate a weak claim or gap into diligence pressure. Critique must remain evidence-bound.",
+    "footer": "RISK · summon_critic",
+    "tags": [
+      "risk",
+      "unit-economics-fog",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "081",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Source Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "source-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "082",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Timeline Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "timeline-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "083",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Founder Role Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "founder-role-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "084",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Venture Status Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "venture-status-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "085",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Product Claim Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "product-claim-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "086",
+    "type": "CONTRADICTION",
+    "icon": "[CON]",
+    "title": "Identity Conflict",
+    "state": "contradicted",
+    "evidence": "L2_program_claim",
+    "limit": "does not choose a winner between sources",
+    "move": "fork",
+    "trace": "creates Contradiction_Form",
+    "body": "Preserve conflict between sources. Do not erase contradiction or choose a winner too early.",
+    "footer": "CONTRADICTION · fork",
+    "tags": [
+      "contradiction",
+      "identity-conflict",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "087",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Forbidden Private Data",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "forbidden-private-data",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "088",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Login-Gated Source",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "login-gated-source",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "089",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Paywalled Source",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "paywalled-source",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "090",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Private Email",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "private-email",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "091",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Protected Attribute",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "protected-attribute",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "092",
+    "type": "BOUNDARY",
+    "icon": "[BDY]",
+    "title": "Doxxing Risk",
+    "state": "forbidden_private",
+    "evidence": "source_gap",
+    "limit": "does not enter the evidence base",
+    "move": "reject",
+    "trace": "creates Source_Rejected trace",
+    "body": "Block illegitimate capture. Professional public risk is allowed; private dirt is not.",
+    "footer": "BOUNDARY · reject",
+    "tags": [
+      "boundary",
+      "doxxing-risk",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "093",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Captured",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "captured",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "094",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Parsed",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "parsed",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "095",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Evidence Bound",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "evidence-bound",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "096",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Contradiction Flagged",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "contradiction-flagged",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "097",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Problem Created",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "problem-created",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "098",
+    "type": "TRACE",
+    "icon": "[TRC]",
+    "title": "Exported to Case File",
+    "state": "exported",
+    "evidence": "L5_primary_record",
+    "limit": "does not alter facts; it records case mutation",
+    "move": "freeze",
+    "trace": "appends Provenance_Trace",
+    "body": "Record the mutation. Every capture, bind, rejection, contradiction, and export leaves provenance.",
+    "footer": "TRACE · freeze",
+    "tags": [
+      "trace",
+      "exported-to-case-file",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "099",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Meitner",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: sees invisible structure before evidence is strong enough.",
+    "move": "Find the missing actor behind a visible claim.",
+    "trace": "creates Uncertainty_Form or Hidden-Contributor Problem.",
+    "body": "Hidden-cause detector. Hunts: quiet mechanisms, overlooked contributors, buried causal chains. Best for: founder ambiguity, hidden technical labor, uncredited research lineage.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "meitner",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "100",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Mencius",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: moral diagnosis outruns source evidence.",
+    "move": "Turn a claim into a customer-harm or governance problem.",
+    "trace": "creates Risk_Form with downside_distribution.",
+    "body": "Moral-pressure reader. Hunts: who is harmed, who bears downside, what duty is being violated. Best for: privacy risk, labor risk, exploitative incentives, public-good claims.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "mencius",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "101",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Sagan",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: can become too skeptical of early but real signals.",
+    "move": "Downgrade overclaimed technology until proof appears.",
+    "trace": "creates Evidence_Gap and Technical_Feasibility Problem.",
+    "body": "Cosmic skeptic. Hunts: extraordinary claims requiring extraordinary evidence. Best for: AI claims, deeptech claims, scientific language, miracle-product pitches.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "sagan",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "102",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Heisenberg",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: keeps too many branches open.",
+    "move": "Fork an ambiguous record instead of forcing certainty.",
+    "trace": "creates Uncertainty_Form or Contradiction_Form.",
+    "body": "Uncertainty mapper. Hunts: measurement limits, ambiguity, observer effects, unstable facts. Best for: same-name founders, stale sources, conflicting timelines, identity ambiguity.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "heisenberg",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "103",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Erdos",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: link sprawl; too many weak edges.",
+    "move": "Expand the relationship graph by one evidence-bound edge.",
+    "trace": "creates Relationship_Edge with confidence state.",
+    "body": "Graph wanderer. Hunts: connections across people, ventures, papers, repositories, institutions. Best for: founder networks, advisor trails, prior startups, publications, patents.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "erdos",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "104",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Archimedes",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: over-reduces social or market complexity.",
+    "move": "Reduce a business claim to the minimum test that would prove it.",
+    "trace": "creates Probe_Card or Minimal_Test Problem.",
+    "body": "First-principles tester. Hunts: leverage points, mechanical truth, simple proof, physical constraint. Best for: unit economics, product reality, does-this-work claims.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "archimedes",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "105",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Boundary Guard",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: can over-block professionally relevant public evidence.",
+    "move": "Reject forbidden input and create a safe substitute probe.",
+    "trace": "creates Boundary_Form and Source_Rejected trace.",
+    "body": "Illegitimate-capture blocker. Hunts: private data, paywall bypass, login-gated content, doxxing risk. Best for: privacy boundary, protected attributes, irrelevant personal data.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "boundary-guard",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "106",
+    "type": "AGENT",
+    "icon": "[AGT]",
+    "title": "Case Compiler",
+    "state": "candidate",
+    "evidence": "source_gap",
+    "limit": "risk: can close before the weak links are visible enough.",
+    "move": "Merge verified forms into a case file and name remaining problems.",
+    "trace": "creates Diagnosis and Exported state.",
+    "body": "Case-file closer. Hunts: source-bound facts, unresolved gaps, export readiness, contradiction burden. Best for: export, diagnosis, final audit, board review.",
+    "footer": "AGENT · dispatch",
+    "tags": [
+      "agent",
+      "case-compiler",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "107",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Dispatch",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "dispatch",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "108",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Inspect",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "inspect",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "109",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Capture",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "capture",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "110",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Bind",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "bind",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "111",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Verify",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "verify",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "112",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Reject",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "reject",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "113",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Fork",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "fork",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "114",
+    "type": "COMMAND",
+    "icon": "[CMD]",
+    "title": "Export",
+    "state": "parsed",
+    "evidence": "source_gap",
+    "limit": "does not substitute for evidence",
+    "move": "dispatch",
+    "trace": "creates Command trace",
+    "body": "Advance the case with a legal PROVIS move. The move must change evidence, state, problem, probe, or trace.",
+    "footer": "COMMAND · dispatch",
+    "tags": [
+      "command",
+      "export",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "115",
+    "type": "EVOLUTION",
+    "icon": "[EVO]",
+    "title": "Candidate to Supported",
+    "state": "evidence_bound",
+    "evidence": "L3_independent_public_source",
+    "limit": "does not upgrade confidence beyond the evidence level",
+    "move": "merge",
+    "trace": "changes state with reason",
+    "body": "Move a form between states only when evidence, contradiction, or explicit uncertainty justifies the transition.",
+    "footer": "EVOLUTION · merge",
+    "tags": [
+      "evolution",
+      "candidate-to-supported",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "116",
+    "type": "EVOLUTION",
+    "icon": "[EVO]",
+    "title": "Supported to Contradicted",
+    "state": "evidence_bound",
+    "evidence": "L3_independent_public_source",
+    "limit": "does not upgrade confidence beyond the evidence level",
+    "move": "merge",
+    "trace": "changes state with reason",
+    "body": "Move a form between states only when evidence, contradiction, or explicit uncertainty justifies the transition.",
+    "footer": "EVOLUTION · merge",
+    "tags": [
+      "evolution",
+      "supported-to-contradicted",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "117",
+    "type": "EVOLUTION",
+    "icon": "[EVO]",
+    "title": "Ambiguous to Resolved",
+    "state": "evidence_bound",
+    "evidence": "L3_independent_public_source",
+    "limit": "does not upgrade confidence beyond the evidence level",
+    "move": "merge",
+    "trace": "changes state with reason",
+    "body": "Move a form between states only when evidence, contradiction, or explicit uncertainty justifies the transition.",
+    "footer": "EVOLUTION · merge",
+    "tags": [
+      "evolution",
+      "ambiguous-to-resolved",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "118",
+    "type": "EVOLUTION",
+    "icon": "[EVO]",
+    "title": "Unresolved to Exported",
+    "state": "evidence_bound",
+    "evidence": "L3_independent_public_source",
+    "limit": "does not upgrade confidence beyond the evidence level",
+    "move": "merge",
+    "trace": "changes state with reason",
+    "body": "Move a form between states only when evidence, contradiction, or explicit uncertainty justifies the transition.",
+    "footer": "EVOLUTION · merge",
+    "tags": [
+      "evolution",
+      "unresolved-to-exported",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "119",
+    "type": "DIAGNOSIS",
+    "icon": "[DX]",
+    "title": "Venture Diagnosis",
+    "state": "exported",
+    "evidence": "L4_multiple_independent_sources",
+    "limit": "does not erase open problems or contradictions",
+    "move": "export",
+    "trace": "creates Diagnosis",
+    "body": "Export the case interpretation: proven facts, weak claims, open problems, bear case, and salvageable truth.",
+    "footer": "DIAGNOSIS · export",
+    "tags": [
+      "diagnosis",
+      "venture-diagnosis",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  },
+  {
+    "id": "120",
+    "type": "DIAGNOSIS",
+    "icon": "[DX]",
+    "title": "Bear Case Diagnosis",
+    "state": "exported",
+    "evidence": "L4_multiple_independent_sources",
+    "limit": "does not erase open problems or contradictions",
+    "move": "export",
+    "trace": "creates Diagnosis",
+    "body": "Export the case interpretation: proven facts, weak claims, open problems, bear case, and salvageable truth.",
+    "footer": "DIAGNOSIS · export",
+    "tags": [
+      "diagnosis",
+      "bear-case-diagnosis",
+      "provis"
+    ],
+    "back": "No claim without source. No edge without evidence. No uncertainty hidden. No contradiction erased. No private dirt. FIELD · FORM · FIT · TRACE."
+  }
+]

@@ -1,0 +1,3878 @@
+[
+  {
+    "id": "CASE-001",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jill Perry-Smith",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Staff | role_detail: Academic Director, CEI; Professor of Organization & Management | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-001",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-002",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Brian Cayce",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Staff | role_detail: Managing Director, CEI | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-002",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-003",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Victoria Aguilar",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: CEI Staff | role_detail: Community Engagement Coordinator, CEI | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-003",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-004",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Robert Kazanjian",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Staff | role_detail: Academic Director Emeritus; Asa Griggs Candler Professor | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-004",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-005",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Yemesrach Tadesse",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: CEI Staff | role_detail: Program Coordinator, CEI | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-005",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-006",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Olivia Sedlack",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Staff (FY24-25) | role_detail: Program Coordinator (2024-25 team list) | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-006",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-007",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Molly McDonald",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Staff (FY24-25) + Alumni Fellow | role_detail: Community Engagement Coordinator (2024-25); Alumni Fellow | venture_program: CEI / HackATL | class_year: 25MBA | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-007",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-008",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Ben Garrett",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Hatchery Staff | role_detail: Director of The Hatchery | venture_program: The Hatchery | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+    "footer": "CASEDEX · entity-008",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-009",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Rizky Etika",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Hatchery Staff | role_detail: Senior Programming Coordinator | venture_program: The Hatchery | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+    "footer": "CASEDEX · entity-009",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-010",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Bridgette Gunnels",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: University Staff | role_detail: Associate Dean and Director, Center for Pathways & Purpose, Oxford College | venture_program: SideHustle 1.0 pipeline | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+    "footer": "CASEDEX · entity-010",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-011",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Charles F. Goetz",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Faculty | role_detail: Professor in the Practice of Organization & Management | venture_program: CEI featured faculty | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-011",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-012",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Andrea Hershatter",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Faculty | role_detail: Professor in the Practice; Senior Associate Dean of Undergraduate Education | venture_program: CEI featured faculty / Summit | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-012",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-013",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Benn R. Konsynski",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Faculty | role_detail: George S. Craft Professor of Information Systems & Operations Management | venture_program: CEI featured faculty | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-013",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-014",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "JB Kurish",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Faculty | role_detail: Professor in the Practice of Finance | venture_program: CEI featured faculty | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-014",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-015",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Saloni Firasta Vastani",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Faculty | role_detail: Associate Professor in the Practice of Marketing | venture_program: CEI featured faculty | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-015",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-016",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Renee Dye",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Faculty (FY24-25) | role_detail: Affiliated faculty (2024-25 report) | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-016",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-017",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Giacomo Negro",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Faculty (FY24-25) | role_detail: Affiliated faculty (2024-25 report) | venture_program: CEI | registry: CEI Team (Ecosystem) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-017",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-018",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jay Bailey",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: President & CEO HJ Russell Innovation Center for Entrepreneurs | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-018",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-019",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Roger Barnette",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: CEO MessageGears | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-019",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-020",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Kate Brodock",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: CEO of Switch & General Partner of W Fund | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-020",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-021",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Christy Brown",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: CEO Dr. Noze Best; TEFC facilitator (2024-25 report); early Doorstep.ai supporter | venture_program: EIR / TEFC | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-021",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-022",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Lisa Calhoun",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder Valor VC | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-022",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-023",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Bill Carr",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Co-founder Working Backwards LLC | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-023",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-024",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Cummings",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder Atlanta Tech Village | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-024",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-025",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Angela Fusaro",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder Physician 360 | venture_program: EIR | class_year: 17EMBA | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-025",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-026",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Gardiner Garrard",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Co-Founder & Managing Partner TTV | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-026",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-027",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Steve Greenfield",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: CEO/Founder Automotive Ventures | venture_program: EIR | class_year: 04EvMBA | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-027",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-028",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Luis Avila Marco",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Former SVP Strategy & Corporate Development Cox Enterprises | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-028",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-029",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Kerry Leigh Miller",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Managing Partner Overton Venture Capital | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-029",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-030",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sid Mookerji",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder & Managing Partner Silicon Road | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-030",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-031",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sig Mosley",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder & Managing Partner Mosley Ventures | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-031",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-032",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Payne",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Co-Founder & Managing Partner Neighborhood Studios | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-032",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-033",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Kanchana Raman",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: President & CEO Avion Networks | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-033",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-034",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Brian Rudolph",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Co-founder & CEO Banza | venture_program: EIR | class_year: 12BBA | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-034",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-035",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Louise Wasilewski",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder & CEO Acivilate | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-035",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-036",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jason Wild",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: SVP Customers Arteria AI | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-036",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-037",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Joey Womack",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: EIR Mentor | role_detail: Founder/CEO Goodie Nation | venture_program: EIR | registry: Mentor Encounter Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/team",
+    "footer": "CASEDEX · entity-037",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-038",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Varun Sheel",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder | role_detail: 1st place Graduate + People's Choice 2026 Pitch the Summit | venture_program: The Elephant Room | class_year: 27MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-038",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-039",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jake Shawler",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 1st place Graduate 2026 Pitch the Summit | venture_program: The Elephant Room | class_year: 27MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-039",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-040",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Federico Morales Barrera",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 1st place Graduate 2026 Pitch the Summit | venture_program: The Elephant Room | class_year: 27MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-040",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-041",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dhwani Gandhi",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 1st place Graduate 2026 Pitch the Summit | venture_program: The Elephant Room | class_year: 27MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-041",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-042",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dure Ali",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 Pitch the Summit team | venture_program: The Elephant Room | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-042",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-043",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Adam Spierer",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 Pitch the Summit team | venture_program: The Elephant Room | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-043",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-044",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Karimatou Diallo",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2nd place Graduate 2026 Pitch the Summit | venture_program: CFO Track | class_year: 28MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-044",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-045",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Mariah Qunsel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 Pitch the Summit team | venture_program: CFO Track | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-045",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-046",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Saliou Bah",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 Pitch the Summit team | venture_program: CFO Track | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-046",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-047",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Apha Barry",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 Pitch the Summit team | venture_program: CFO Track | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-047",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-048",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Ariana Sharafat",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder | role_detail: 3rd place Graduate 2026 Pitch the Summit | venture_program: GlamGuide | class_year: 26MIM | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-048",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-049",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Malia Wakesho-Ajwang",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder | role_detail: 1st place Undergraduate 2026 Pitch the Summit | venture_program: Asoma | class_year: 26C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-049",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-050",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sushmita Rajan",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2nd place Undergraduate 2026 Pitch the Summit | venture_program: Boomi | class_year: 26C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-050",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-051",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Shirin Deepak",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2nd place Undergraduate 2026 Pitch the Summit | venture_program: Boomi | class_year: 26BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-051",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-052",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Luka Undilashvili",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 3rd place Undergraduate 2026 Pitch the Summit | venture_program: Infervia | class_year: 28C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-052",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-053",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dharshini Kannan",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 3rd place Undergraduate 2026 Pitch the Summit | venture_program: Infervia | class_year: 28C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-053",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-054",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Rom Zuckerman",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 3rd place Undergraduate 2026 Pitch the Summit | venture_program: Infervia | class_year: 28C (ECAS/GT) | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-054",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-055",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Prem Galani",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 3rd place Undergraduate 2026 Pitch the Summit | venture_program: Infervia | class_year: 29C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-055",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-056",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Harman Lindsey",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder (alumni) | role_detail: 2026 Techstars Emory Founder Catalyst cohort | venture_program: Misfit Adventure | class_year: 24MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-056",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-057",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Madalyn Tolbert",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder (alumni) | role_detail: 2026 TEFC cohort | venture_program: Pi9eon | class_year: 20Ox 22C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-057",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-058",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Helen Khuri",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2026 TEFC cohort; Hatchery Incubator & Accelerator alum | venture_program: Smush | class_year: 26C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-058",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-059",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jack Steffen",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025-26 Hatchery Incubator cohort | venture_program: Scholarly | class_year: Oxford | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+    "footer": "CASEDEX · entity-059",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-060",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Raphael Nelson",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: Co-founder; inaugural Palladin Fellow; Hatchery Summer Accelerator 2025 | venture_program: The CaseBot | class_year: Oxford/BBA rising 3rd yr | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+    "footer": "CASEDEX · entity-060",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-061",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Isabel Horne",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: Co-founder; inaugural Palladin Fellow; Hatchery Summer Accelerator 2025 | venture_program: The CaseBot | class_year: Oxford/ECAS rising 3rd yr | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+    "footer": "CASEDEX · entity-061",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-062",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sam Liu",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Commonology AI | class_year: 27BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-062",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-063",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "William Kong",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Commonology AI | class_year: 27C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-063",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-064",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Larissa Lippe",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Commonology AI | class_year: 27BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-064",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-065",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Ray Sahni",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Commonology AI | class_year: 25C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-065",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-066",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Anthony Vargas",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Safe Squeeze Headgear | class_year: 26C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-066",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-067",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emilio Van Cotthem",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Subscription Intern | class_year: 25C | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-067",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-068",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Christian Liew",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder | role_detail: 2025 Pitch the Summit finalist | venture_program: Subscription Intern | class_year: 25BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-068",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-069",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Albert Djikeng",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder + Fellow (FY24-25) | role_detail: 2025 Pitch the Summit finalist (Corridor); 2024-25 CEI Fellow; featured Summit reflection | venture_program: Corridor | class_year: 26MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-069",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-070",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Tyki Wada",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder + Alumni Fellow | role_detail: 2025 Pitch the Summit finalist (Moji); CEI Fellow; TEFC testimonial | venture_program: Moji | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-070",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-071",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Omid Razmpour",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student Founder + Fellow | role_detail: 2025 Pitch the Summit finalist; 2025 Most Disruptive MBA Startups; CEI Fellow | venture_program: WorkforceIQ | class_year: 26MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://www.voiceofgoizueta.com/2025-most-disruptive-mba-startups-workforceiq/",
+    "footer": "CASEDEX · entity-071",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-072",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Erica Evans",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Founder + Alumni Fellow | role_detail: 2025 Pitch the Summit Momentum Award; CEI Fellow; quoted in directors' letter | venture_program: Blood Rheology Solutions | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-072",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-073",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Shashwat Murarka",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder | role_detail: Founder profiled by Goizueta news | venture_program: Doorstep.ai | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+    "footer": "CASEDEX · entity-073",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-074",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sheel Patel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder | role_detail: Co-founder | venture_program: Doorstep.ai | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+    "footer": "CASEDEX · entity-074",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-075",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Edwin Kendrick",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder | role_detail: Featured headline: smart device for safer methadone pain management | venture_program: SanoTOUCH | registry: Founder Registry | verification_status: CANDIDATE — headline only, article not fetched | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-077",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-076",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Glattstein",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Founder | role_detail: 2025 Keynote; Co-Founder & President Veterinary Emergency Group | venture_program: Entrepreneurship Summit 2025 | class_year: 04BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-134",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-077",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Bessler",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder | role_detail: Co-founder VEG (named in Glattstein bio) | venture_program: VEG | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-135",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-078",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Stuart Zola",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder | role_detail: Emory neuroscientist; co-founder MapHabit (named in Golden bio + related headline) | venture_program: MapHabit | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-150",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-079",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Cameron Duncan",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Founder | role_detail: Co-founder & CEO Axle (2025 Summit article) | venture_program: Summit 2025 Luminary | class_year: 17BBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/",
+    "footer": "CASEDEX · entity-155",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-080",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Brandon Ward",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Founder | role_detail: Founder Palladin Technologies; 2025 Emory Entrepreneur Award (B2B); Palladin Fellowship sponsor | venture_program: Palladin Fellowship / Hatchery | class_year: 10MBA | registry: Founder Registry | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+    "footer": "CASEDEX · entity-159",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-081",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Anton",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder (Emory tie unconfirmed) | role_detail: CEO and Co-Founder Huper ($1.5M pre-seed) | venture_program: Huper | registry: Founder Registry | verification_status: CANDIDATE — Emory tie unconfirmed | seed_url: https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+    "footer": "CASEDEX · entity-160",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-082",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Andrew Howard",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder (Emory tie unconfirmed) | role_detail: Co-founder Huper | venture_program: Huper | registry: Founder Registry | verification_status: CANDIDATE — Emory tie unconfirmed | seed_url: https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+    "footer": "CASEDEX · entity-161",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-083",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Aidan Kehoe",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Founder (Emory tie unconfirmed) | role_detail: Co-founder Huper | venture_program: Huper | registry: Founder Registry | verification_status: CANDIDATE — Emory tie unconfirmed | seed_url: https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/",
+    "footer": "CASEDEX · entity-162",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-084",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Selina Kao",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student | role_detail: Two-time first-place HackATL team member | venture_program: HackATL / MedRec team | class_year: 27BBA | registry: Student Engagement Registry | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/",
+    "footer": "CASEDEX · entity-078",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-085",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Meher Jain",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: Student Leader + Fellow (FY24-25) | role_detail: Student director of HackATL; 2024-25 CEI Fellow | venture_program: HackATL | class_year: 27BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://www.emorybusiness.com/2024/12/03/how-hackatl-fosters-future-changemakers/ | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-079",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-086",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Grace Zhang",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Student | role_detail: Featured student (sustainable fashion / refugee empowerment headline) | venture_program: CEI news feed | class_year: 25BBA | registry: Student Engagement Registry | verification_status: CANDIDATE — headline only, article not fetched | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-080",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-087",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Kenna Temesgen",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: CEI Fellow (current) | role_detail: CEI Fellow Spotlight headline | venture_program: CEI Fellows | class_year: 26MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-081",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-088",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Vidhi Tiwary",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: CEI Fellow (current) | role_detail: CEI Fellow Spotlight: angel investing headline | venture_program: CEI Fellows | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-082",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-089",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dimi Deju",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 27BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-083",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-090",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Penelope Gallardo",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-084",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-091",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Wyatt Lyons",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-085",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-092",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Cate Navarrette",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-086",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-093",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Aagam Prakash",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 28BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-087",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-094",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Apoorv Kumar",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-088",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-095",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sofia Yang",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-089",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-096",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Justin Helm",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 26EvMBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-090",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-097",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Gabrielle Iarocci",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 22EvMBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-091",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-098",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Patrycja Kepa",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 27EvMBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-092",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-099",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Linh Nguyen",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-093",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-100",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Cydney Stevenson",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 25EvMBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-094",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-101",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Samuel Aely",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 28MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-095",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-102",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Gernatt",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-096",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-103",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Qazi Haq",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow; quoted in report (VC internships) | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-097",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-104",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Noah Kann",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 20MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-098",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-105",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Angela Kim",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-099",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-106",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Prestin Lawrence",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-100",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-107",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jasmin Lopez",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-101",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-108",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Rahul Mantri",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-102",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-109",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Mirowcha",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow (FY24-25) | role_detail: 2024-25 Student Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-103",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-110",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Steve Ripple",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 2/10 verified person links. role_type: CEI Fellow + Alumni Fellow | role_detail: 2024-25 Student Fellow; Alumni Fellow list | venture_program: CEI Fellows | class_year: 26MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows | secondary_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-104",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-111",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Taylor Adkins",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-105",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-112",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Samuel Bailey",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-106",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-113",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Neil Banerjee",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 22BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-107",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-114",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Rahul Bendre",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-108",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-115",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Brandon Best",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-109",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-116",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Paige Boatwright",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-110",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-117",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Raymond Cryer II",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-111",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-118",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Nikita Das",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-112",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-119",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Margaux Galitz",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 22MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-113",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-120",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Gibbons",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-114",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-121",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Aravind Giduturi",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-115",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-122",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dany Hernandez",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-116",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-123",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Stephon Harris",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-117",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-124",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Martin Huang",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-118",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-125",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Timothy Lam",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-119",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-126",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Saif Nazrul",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-120",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-127",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Nkwocha",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 25MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-121",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-128",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Sadia Oishee",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-122",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-129",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Shyam Patel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-123",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-130",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Vivek Patel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-124",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-131",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Keena Pierre",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-125",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-132",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Rishab Pradeep Padukone",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-126",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-133",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jessica Sanghvi",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-127",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-134",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Murli Singh",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-128",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-135",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Evyn Smith",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 24MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-129",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-136",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Garima Soni",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 22MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-130",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-137",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emily Wang",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23BBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-131",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-138",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Bronson Worthy",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Fellow | role_detail: CEI Alumni Fellow | venture_program: CEI Fellows | class_year: 23MBA | registry: Fellows Registry | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/students/fellows",
+    "footer": "CASEDEX · entity-132",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-139",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Kyle Wilson",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Investor | role_detail: Invested in Doorstep.ai after a pitch night | venture_program: Doorstep.ai | class_year: 09C | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+    "footer": "CASEDEX · entity-075",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-140",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Alex Watts",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Supporter | role_detail: Early Doorstep.ai supporter | venture_program: Doorstep.ai | class_year: 04C | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/03/17/finding-the-front-door-faster-shashwat-murarkas-doorstep-ai/",
+    "footer": "CASEDEX · entity-076",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-141",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Fridtjof Berge",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2026 Founder's Address; Co-Founder & CBO Antler; Goizueta BBA exchange alumnus | venture_program: Entrepreneurship Summit 2026 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-133",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-142",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Cyril Berdugo",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2024 Keynote; Co-Founder and CEO of Landis | venture_program: Entrepreneurship Summit 2024 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-136",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-143",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Stuart Weitzman",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2023 Keynote; designer/founder | venture_program: Entrepreneurship Summit 2023 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-137",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-144",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Vivek Garipalli",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2022 Keynote; co-founder Clover Health | venture_program: Entrepreneurship Summit 2022 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-138",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-145",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "William Hockey",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2019 Founders Address; Co-Founder Plaid | venture_program: Entrepreneurship Summit 2019 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-139",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-146",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Politis",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Keynote Speaker | role_detail: 2019 Founders Address; Founder & CEO BetterCloud | venture_program: Entrepreneurship Summit 2019 | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-140",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-147",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Jeffrey Chernick",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: 3x founder (RideAmigos / Vyng) | venture_program: Summit 2026 Luminary | class_year: 04BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-141",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-148",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Caren Kelleher",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Founder & CEO Gold Rush Vinyl | venture_program: Summit 2026 Luminary | class_year: 04BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-142",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-149",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Dustin Finkel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Former CEO and Founder Awakened Foods / MacGray | venture_program: Summit 2026 Luminary | class_year: 00BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-143",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-150",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Vanessa Jeswani",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-Founder Nomad Lane | venture_program: Summit Luminary | class_year: 08BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-144",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-151",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Adam King",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-Founder CEO 1587 Sneakers | venture_program: Summit Luminary | class_year: 09MBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-145",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-152",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Glen Surnamer",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Executive Director Woodland South Capital; COO Pensare LLC (2025 article) | venture_program: Summit Luminary | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-146",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-153",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Colin McIntosh",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Founder CEO Sheets & Giggles | venture_program: Summit Luminary | class_year: 12BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-147",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-154",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "David Gaspar",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-Founder Head of Innovation Gather | venture_program: Summit Luminary | class_year: 02BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-148",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-155",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Matt Golden",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-founder MapHabit | venture_program: Summit 2026 Luminary | class_year: 05BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC — identity reconciliation needed | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-149",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-156",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Basen",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Head of StavMarket Stavtar Solutions | venture_program: Summit 2026 Luminary | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-151",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-157",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Michael Cohen",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-founder Creator Sports Network | venture_program: Summit 2026 Luminary | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-152",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-158",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Armaan Sikand",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-Founder and COO Axle | venture_program: Summit 2026 Luminary | class_year: 15C | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-153",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-159",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Nihar Parikh",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Co-Founder and CTO Axle | venture_program: Summit 2026 Luminary | class_year: 17B | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-154",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-160",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Josh Sigel",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: Founder/CEO Xlogix; Fabrick / Lasso Ventures / ARAF | venture_program: Summit 2026 Luminary | class_year: 02BBA | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-156",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-161",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Nathan Meeks",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Alumni Luminary | role_detail: SVP Glia; Co-Founder/CEO Gigzolo | venture_program: Summit 2026 Luminary | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-157",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-162",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Scott Roskind",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Person-level disambiguation required; only exact-name/context matches retained.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Person. 1/10 verified person links. role_type: Summit Luminary | role_detail: Partner R3 Venture Partners | venture_program: Summit 2025 Luminary | registry: Community Registry (alumni network) | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2025/04/25/fueling-founders-at-goizuetas-ninth-annual-entrepreneurship-summit/",
+    "footer": "CASEDEX · entity-158",
+    "tags": [
+      "case",
+      "person",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-163",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "The Elephant Room",
+    "state": "unresolved",
+    "evidence": "6/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 6/10 verified venture links. description: Accelerator for independent artists using data-driven analytics/ML pipeline (TERAS). | sector: Creative / music tech | affiliation_evidence: 1st place Graduate + People's Choice, 2026 Pitch the Summit (official Summit page) | named_founders: Varun Sheel, Jake Shawler, Federico Morales Barrera, Dhwani Gandhi, Dure Ali, Adam Spierer | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-163",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-164",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "CFO Track",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Operational finance software connecting revenue, inventory, and marketing data for founders. | sector: Fintech / SaaS | affiliation_evidence: 2nd place Graduate, 2026 Pitch the Summit | named_founders: Karimatou Diallo, Mariah Qunsel, Saliou Bah, Apha Barry | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-164",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-165",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "GlamGuide",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Beauty social commerce app with daily discovery tools for Black and minority stylists. | sector: Consumer / beauty tech | affiliation_evidence: 3rd place Graduate, 2026 Pitch the Summit | named_founders: Ariana Sharafat | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-165",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-166",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Asoma",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: All-in-one hub offloading executive functions to AI for people with ADHD. | sector: Consumer / AI | affiliation_evidence: 1st place Undergraduate, 2026 Pitch the Summit | named_founders: Malia Wakesho-Ajwang | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-166",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-167",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Boomi",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Protein-packed Indian masala powder for snacks and meals. | sector: Consumer / food | affiliation_evidence: 2nd place Undergraduate, 2026 Pitch the Summit | named_founders: Sushmita Rajan, Shirin Deepak | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-167",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-168",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Infervia",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: AI-powered regulatory intelligence for healthcare facility compliance. | sector: Healthcare / AI | affiliation_evidence: 3rd place Undergraduate, 2026 Pitch the Summit | named_founders: Luka Undilashvili, Dharshini Kannan, Rom Zuckerman, Prem Galani | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/events/summit",
+    "footer": "CASEDEX · entity-168",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-169",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Misfit Adventure",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Educational game publisher; licenses tools for schools to build STEM programs. | sector: Edtech / games | affiliation_evidence: 2026 Techstars Emory Founder Catalyst cohort (Goizueta news site) | named_founders: Harman Lindsey | programs: Techstars Emory Founder Catalyst (TEFC) | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-169",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-170",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Pi9eon",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Platform for a faster, seamless mailing experience for postcard/mail enthusiasts. | sector: Consumer | affiliation_evidence: 2026 TEFC cohort (Goizueta news site) | named_founders: Madalyn Tolbert | programs: Techstars Emory Founder Catalyst (TEFC) | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-170",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-171",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Smush",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 3/10 verified venture links. description: Fashionable compression wear for women; signature sparkle compression tights. | sector: Consumer / apparel | affiliation_evidence: 2026 TEFC cohort; article states also Hatchery Incubator and Accelerator alum | named_founders: Helen Khuri | programs: Techstars Emory Founder Catalyst (TEFC), Hatchery Incubator, Hatchery Summer Accelerator | verification_status: VERIFIED PUBLIC | seed_url: https://www.emorybusiness.com/2026/04/15/meet-the-founders-of-techstars-emory-founders-catalyst-program/",
+    "footer": "CASEDEX · entity-171",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-172",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Scholarly",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 1/10 verified venture links. description: Helps homeschool families access higher education. | sector: Edtech | affiliation_evidence: 2025-26 Hatchery Incubator cohort member (Emory News Center) | named_founders: Jack Steffen | programs: Hatchery Incubator | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/11/er_hatchery_incubator_cohort_2526_19-11-2025/story.html",
+    "footer": "CASEDEX · entity-172",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-173",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Doorstep.ai",
+    "state": "unresolved",
+    "evidence": "8/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 8/10 verified venture links. description: AI for finding building entrances faster (headline-level description). | sector: AI / logistics | affiliation_evidence: Featured on official CEI news feed, Mar 17, 2026; underlying article not fetched | named_founders: Shashwat Murarka | verification_status: VERIFIED PUBLIC (full article fetched 2026-06-09) | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-173",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-174",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Huper",
+    "state": "unresolved",
+    "evidence": "8/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 8/10 verified venture links. description: Atlanta-based AI startup (headline-level description). | sector: AI | affiliation_evidence: Featured on official CEI news feed via Atlanta Business Chronicle headline, Mar 10, 2026; article not fetched | named_founders: — none printed | verification_status: CANDIDATE — Emory tie unconfirmed (Hypepotamus article shows no Emory link) | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-174",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-175",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Commonology AI",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 3/10 verified venture links. description: Pitch the Summit 2025 finalist (per CEI Annual Report 2024-25). | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Sam Liu, William Kong, Larissa Lippe, Ray Sahni | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-175",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-176",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Safe Squeeze Headgear",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 3/10 verified venture links. description: Pitch the Summit 2025 finalist. | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Anthony Vargas | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-176",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-177",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Subscription Intern",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Pitch the Summit 2025 finalist. | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Emilio Van Cotthem, Christian Liew | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-177",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-178",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Corridor",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 3/10 verified venture links. description: Pitch the Summit 2025 finalist. | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Albert Djikeng | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-178",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-179",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Moji",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 2/10 verified venture links. description: Pitch the Summit 2025 finalist. | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Tyki Wada | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-179",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-180",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "WorkforceIQ",
+    "state": "unresolved",
+    "evidence": "5/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 5/10 verified venture links. description: Pitch the Summit 2025 finalist. | affiliation_evidence: Pitch the Summit finalist, CEI Annual Report 2024-25 PDF | named_founders: Omid Razmpour | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-180",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-181",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Blood Rheology Solutions",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 1/10 verified venture links. description: Pitch the Summit 2025 Momentum Award recipient. | affiliation_evidence: Momentum Award, CEI Annual Report 2024-25 PDF | named_founders: Erica Evans | programs: Pitch the Summit | verification_status: VERIFIED PUBLIC | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-181",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-182",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "The CaseBot",
+    "state": "unresolved",
+    "evidence": "6/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 6/10 verified venture links. description: Student venture; co-founders are inaugural Palladin Fellows | sector: — | affiliation_evidence: Hatchery Summer Accelerator 2025 (Emory News Center) | named_founders: Raphael Nelson, Isabel Horne | programs: Hatchery Summer Accelerator | verification_status: VERIFIED PUBLIC | seed_url: https://news.emory.edu/stories/2025/07/er_palladin_fellows_hatchery_1-7-2025/story.html",
+    "footer": "CASEDEX · entity-182",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-183",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "SanoTOUCH",
+    "state": "unresolved",
+    "evidence": "1/10 verified links",
+    "limit": "Early/student venture public footprint appears limited; workbook records verified pages and specific missing layers.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Venture. 1/10 verified venture links. description: Smart device for safer methadone pain management (headline) | sector: Medical device | affiliation_evidence: Headline on official CEI news feed | named_founders: Edwin Kendrick | programs: — | verification_status: CANDIDATE — headline only, article not fetched | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-183",
+    "tags": [
+      "case",
+      "venture",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-184",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "The Roberto C. Goizueta Center for Entrepreneurship & Innovation (CEI)",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: University center (Goizueta Business School, Emory University) | geography: Atlanta, GA | relationship_to_cei: self | verification_status: VERIFIED PUBLIC | official_website: https://goizueta.emory.edu/faculty/entrepreneurship-innovation | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation",
+    "footer": "CASEDEX · entity-184",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-185",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "The Hatchery, Center for Innovation (Emory University)",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: University innovation center / incubator | geography: Atlanta, GA (Emory Point) | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25; TEFC co-deliverer | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: https://hatchery.emory.edu/ | seed_url: https://hatchery.emory.edu/",
+    "footer": "CASEDEX · entity-185",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-186",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emory University Office of Technology Transfer (OTT)",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: University technology transfer office | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: https://ott.emory.edu/ | seed_url: https://ott.emory.edu/",
+    "footer": "CASEDEX · entity-186",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-187",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Biolocity",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Multi-institutional medtech commercialization program (Emory + Georgia Tech) | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: https://biolocity.gatech.edu/ | seed_url: https://biolocity.gatech.edu/",
+    "footer": "CASEDEX · entity-187",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-188",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "ATDC (Advanced Technology Development Center)",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: State-funded statewide startup incubator (Georgia Tech) | geography: Georgia statewide; HQ Tech Square, Atlanta | relationship_to_cei: Listed among Atlanta community partners in CEI Annual Report 2024-25 | partner_type: Atlanta community partner | verification_status: VERIFIED PUBLIC | official_website: https://atdc.org/ | seed_url: https://atdc.org/about-atdc/",
+    "footer": "CASEDEX · entity-188",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-189",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Atlanta Tech Village",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: Private startup community hub / coworking campus | geography: Atlanta, GA (Buckhead + Sylvan) | relationship_to_cei: Listed among Atlanta community partners in CEI Annual Report 2024-25 | partner_type: Atlanta community partner | verification_status: VERIFIED PUBLIC | official_website: https://atlantatechvillage.com/ | seed_url: https://atlantatechvillage.com/",
+    "footer": "CASEDEX · entity-189",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-190",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Venture Atlanta",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Venture capital conference organization | geography: Atlanta / Southeast US | relationship_to_cei: Mini-fund collaboration described in CEI Annual Report 2024-25 | partner_type: Capital ecosystem partner | verification_status: VERIFIED PUBLIC | official_website: https://www.ventureatlanta.org/ | seed_url: https://www.ventureatlanta.org/",
+    "footer": "CASEDEX · entity-190",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-191",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "TiE Atlanta Angels",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Angel investment network | geography: Atlanta, GA | relationship_to_cei: Named mini-fund partner in CEI Annual Report 2024-25 | partner_type: Capital ecosystem partner | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-191",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-192",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Invest Atlanta",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Public economic development authority (City of Atlanta) | geography: City of Atlanta, GA | relationship_to_cei: Hatchery partner (logo wall); not on CEI 2024-25 collaborator list | partner_type: Civic partner | verification_status: VERIFIED PUBLIC | official_website: https://www.investatlanta.com/ | seed_url: https://www.investatlanta.com/",
+    "footer": "CASEDEX · entity-192",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-193",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Georgia Research Alliance (GRA)",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Nonprofit university research & entrepreneurship alliance | geography: Georgia | relationship_to_cei: Listed among Atlanta community partners in CEI Annual Report 2024-25 | partner_type: Research commercialization partner | verification_status: VERIFIED PUBLIC | official_website: https://gra.org/ | seed_url: https://gra.org/",
+    "footer": "CASEDEX · entity-193",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-194",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Startup Atlanta",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Community non-profit | geography: Metro Atlanta, GA | relationship_to_cei: Listed among Atlanta community partners in CEI Annual Report 2024-25 | partner_type: Atlanta community partner | verification_status: VERIFIED PUBLIC | official_website: https://www.startupatlanta.com/ | seed_url: https://www.startupatlanta.com/",
+    "footer": "CASEDEX · entity-194",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-195",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Techstars",
+    "state": "unresolved",
+    "evidence": "5/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 5/10 verified organization links. type: Global pre-accelerator / accelerator network | geography: Global; Atlanta programs | relationship_to_cei: TEFC triad partner (CEI + Hatchery + Techstars) | partner_type: Program co-deliverer | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/programs",
+    "footer": "CASEDEX · entity-195",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-196",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "AppHatchery",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Emory app development collaborator | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-196",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-197",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emory Center for AI Learning",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: University center | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-197",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-198",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "DRIVE (Drug Innovation Ventures at Emory)",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: University drug development venture unit | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-198",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-199",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emory Drug Development Fund",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: University fund | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-199",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-200",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Emory BioFoundry Institute",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: University institute | geography: Atlanta, GA | relationship_to_cei: Named collaborator in CEI Annual Report 2024-25 | partner_type: University collaborator | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-200",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-201",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Atlanta Technology Angels",
+    "state": "unresolved",
+    "evidence": "2/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 2/10 verified organization links. type: Angel investment network | geography: Atlanta, GA | relationship_to_cei: Named Atlanta community partner in CEI Annual Report 2024-25 | partner_type: Capital ecosystem partner | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-201",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-202",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Goodie Nation",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: Nonprofit founder support network | geography: Atlanta, GA | relationship_to_cei: Named Atlanta community partner in CEI Annual Report 2024-25 | partner_type: Atlanta community partner | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-202",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-203",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Russell Center for Innovation & Entrepreneurship (RICE)",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: Innovation center for Black entrepreneurs | geography: Atlanta, GA | relationship_to_cei: Named Atlanta community partner in CEI Annual Report 2024-25 | partner_type: Atlanta community partner | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-203",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  },
+  {
+    "id": "CASE-204",
+    "type": "CASE",
+    "icon": "[204]",
+    "title": "Engage VC",
+    "state": "unresolved",
+    "evidence": "3/10 verified links",
+    "limit": "Organization links retained only where official page, partner page, report, or source corroboration matched.",
+    "move": "probe",
+    "trace": "CASEDEX_ENTITY 2026-06-10",
+    "body": "Organization. 3/10 verified organization links. type: Venture firm / corporate innovation platform | geography: Atlanta, GA | relationship_to_cei: Named Atlanta community partner in CEI Annual Report 2024-25 | partner_type: Capital ecosystem partner | verification_status: VERIFIED PUBLIC | official_website: — not captured | seed_url: https://goizueta.emory.edu/faculty/entrepreneurship-innovation/documents/report.pdf",
+    "footer": "CASEDEX · entity-204",
+    "tags": [
+      "case",
+      "organization",
+      "provis"
+    ],
+    "back": "204-entity Casedex expansion card. Source-bound case objects can enter play without changing the fixed 120-card press deck."
+  }
+]

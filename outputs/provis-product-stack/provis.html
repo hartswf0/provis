@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>PROVIS</title>
+  <style>
+  :root { color-scheme: light; --bg:#fff; --fg:#000; --line:#000; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--fg); }
+  body { font-size: 14px; line-height: 1.25; letter-spacing: 0; }
+  a { color: var(--fg); text-decoration: underline; text-decoration-thickness: 2px; }
+  button, input, select, textarea { font: inherit; color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 0; }
+  button { cursor: pointer; }
+  .top { position: sticky; top: 0; z-index: 10; background: var(--bg); border-bottom: 2px solid var(--line); display: flex; gap: 0; overflow-x: auto; }
+  .top a, .top button { min-height: 42px; padding: 9px 10px; border: 0; border-right: 1px solid var(--line); font-weight: 900; text-transform: uppercase; font-size: 11px; white-space: nowrap; }
+  main { width: min(100%, 1120px); margin: 0 auto; padding: 10px; }
+  .panel { border: 2px solid var(--line); margin-bottom: 10px; }
+  .head { border-bottom: 2px solid var(--line); padding: 7px 9px; display: flex; justify-content: space-between; gap: 8px; font-size: 11px; font-weight: 900; text-transform: uppercase; }
+  .body { padding: 9px; }
+  h1, h2, h3, p { margin: 0; }
+  h1 { font-size: 24px; line-height: 1.02; }
+  h2 { font-size: 17px; line-height: 1.1; }
+  h3 { font-size: 14px; line-height: 1.1; }
+  .small { font-size: 12px; line-height: 1.25; }
+  .micro { font-size: 10px; line-height: 1.1; font-weight: 900; text-transform: uppercase; }
+  .grid { display: grid; gap: 6px; }
+  .cols { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
+  .cell { border: 1px solid var(--line); padding: 7px; min-height: 54px; overflow-wrap: anywhere; }
+  .k { display: block; font-size: 10px; font-weight: 900; text-transform: uppercase; }
+</style>
+</head>
+<body><nav class="top"><a href="provis.html" aria-current="page">PROVIS</a><a href="provisgrid.html">PROVISGRID</a><a href="provisdeck.html">PROVISDECK</a><a href="provis-plus.html">PROVIS PLUS</a><a href="provis-glass.html">PROVIS GLASS</a><a href="provis-glass-loop.html">GLASS LOOP</a><a href="deckpress.html">DECKPRESS</a></nav>
+<main>
+  <section class="panel">
+    <div class="head"><span>PROVIS</span><span>ontology</span></div>
+    <div class="body">
+      <h1>Problem-Oriented Venture Information System</h1>
+      <p class="small" style="margin-top:8px">PROVIS turns public venture traces into source-bound case files: entities, claims, relationships, evidence, risks, contradictions, problems, probes, and trace.</p>
+    </div>
+  </section>
+  <section class="panel">
+    <div class="head"><span>F4</span><span>language</span></div>
+    <div class="body grid cols">
+      <div class="cell"><span class="k">Field</span>The bounded public evidence space around a venture, founder, program, or ecosystem.</div><div class="cell"><span class="k">Form</span>A typed object: venture, founder, claim, evidence, edge, risk, contradiction, uncertainty, problem, trace.</div><div class="cell"><span class="k">Fit</span>The play: Source, Observation, Assessment, Problem, Probe.</div><div class="cell"><span class="k">Trace</span>The audit log for every capture, bind, rejection, contradiction, and export.</div>
+    </div>
+  </section>
+  <section class="panel">
+    <div class="head"><span>Evidence Levels</span><span>L0-L5</span></div>
+    <div class="body grid cols">
+      <div class="cell"><span class="k">L0</span>Unverified claim.</div><div class="cell"><span class="k">L1</span>Self claim.</div><div class="cell"><span class="k">L2</span>Program claim.</div><div class="cell"><span class="k">L3</span>Independent public source.</div><div class="cell"><span class="k">L4</span>Multiple independent sources.</div><div class="cell"><span class="k">L5</span>Primary record or artifact.</div>
+    </div>
+  </section>
+  <section class="panel">
+    <div class="head"><span>Shared Contract</span><span>all products</span></div>
+    <div class="body grid cols">
+      <div class="cell"><span class="k">Objects</span>FIELD / FORM / FIT / TRACE / SOURCE / CLAIM / EDGE / PROBLEM / PROBE / RISK / CONTRADICTION / UNCERTAINTY / BOUNDARY / AGENT / COMMAND / DIAGNOSIS</div>
+      <div class="cell"><span class="k">States</span>unseen / captured / parsed / candidate / evidence_bound / weakly_supported / supported / strongly_supported / ambiguous / contradicted / disconfirmed / stale / unresolved / forbidden_private / resolved / dormant / exported</div>
+      <div class="cell"><span class="k">Moves</span>dispatch / inspect / capture / extract / bind / verify / reject / probe / fork / merge / freeze / export / summon_critic</div>
+      <div class="cell"><span class="k">Boundaries</span>No private emails. No private phones. No home addresses. No protected attributes. No login-gated content. No paywall bypass. No raw search URL as evidence. No name-similarity edge. No link padding. No unsourced critique.</div>
+    </div>
+  </section>
+  <section class="panel">
+    <div class="head"><span>Product Stack</span><span>real outputs</span></div>
+    <div class="body grid cols">
+      <a class="cell" href="provisgrid.html"><span class="k">PROVISGRID</span>204-entity Casedex plus evidence board.</a>
+      <a class="cell" href="provisdeck.html"><span class="k">PROVISDECK</span>Core 120-card language plus 204 CASE expansion cards.</a>
+      <a class="cell" href="provis-plus.html"><span class="k">PROVIS PLUS</span>Prompt-system integrated Casedex app.</a>
+      <a class="cell" href="provis-glass.html"><span class="k">PROVIS GLASS</span>Mobile glass branch: pinned entity, map, thread, evidence packet, move surface, agentdeck, element index.</a>
+      <a class="cell" href="provis-glass-loop.html"><span class="k">GLASS LOOP</span>Actual 204-entity mobile operator loop: work queue, pinned entity, evidence packet, agentdeck, legal moves, and element index.</a>
+      <a class="cell" href="deckpress.html"><span class="k">DECKPRESS</span>Print/mobile deck artifact plus 204 Casedex and CASE cards.</a>
+    </div>
+  </section>
+</main></body>
+</html>
